@@ -27,8 +27,8 @@ int main()
 			}
 		}
 		if(count==0)printf("None");	
-		return 0;
-    }
+       }
+       return 0;
 }
 double a(int n)
 {
